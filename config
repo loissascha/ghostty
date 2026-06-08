@@ -1,0 +1,5 @@
+theme = Rose Pine
+shell-integration = fish
+window-decoration = none
+gtk-titlebar = false
+font-size = 16
