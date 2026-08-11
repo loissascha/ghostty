@@ -1,5 +1,5 @@
-theme = Rose Pine
+theme = Material Ocean
 shell-integration = fish
-window-decoration = none
-gtk-titlebar = false
+# window-decoration = none
+# gtk-titlebar = false
 font-size = 16
